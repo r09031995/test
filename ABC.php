@@ -1,6 +1,6 @@
 <?php
 class ABC{
-	public $name = 'rahul';
+	public $name = 'rahuljjjjj';
 	
 	public function __get(){
 		echo $this->name;

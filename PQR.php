@@ -1,8 +1,8 @@
 <?php
 class PQR{
 	
-	function __construct($var){
-		echo $var;
+	function __construct($varewwe){
+		echo $varewwe;
 		
 	}
 	
